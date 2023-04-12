@@ -1,10 +1,9 @@
----
 items:
-  - text: Menu One
-    url: "#"
-  - text: Menu Two
-    url: "#"
-  - text: Menu Three
-    url: "#"
+  - text: Flexiple
+    url: https://flexiple.com
+  - text: buildd
+    url: https://buildd.co
+  - text: Remote Tools
+    url: https://remote.tools
   - text: Blog
-    url: "/blog"
+    url: /blog
